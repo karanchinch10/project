@@ -1,9 +1,9 @@
 
-# [1 Web Scraping Housing Data](https://github.com/karanchinch10/Web-Scraping-)
+# [1. Web Scraping Housing Data](https://github.com/karanchinch10/Web-Scraping-)
 Web scraping used to obtain huge data from websites & extracting/parsing required info from it which usually in unstructured form (HTML format) which is then converted into structured data in a spreadsheet or database so it can used in various applications.
 
 * Used `requests` and `BeautifulSoup` libraries to perform the web scraping.
-* All **Important parameters** related to housing such **house price, total sqft area, project by, location, BHK and so on**  are scraped from website ***https://www.makaan.com***
+* All **Important parameters** related to housing such **house price, total sqft area, project by, location, BHK and so on**  are scraped from website ***<a href="https://www.makaan.com"><strong>makaan.com</strong></a>*** 
 * Objective is To know Price of house for **differents location** in **mumbai** city 
 * Data from **250 pages scarpped and store in single dataframe** export to csv file
 * Perform **Data cleaning and Data Visualization on Scrapped data** to know imp features & their correlation with house price
