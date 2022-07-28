@@ -66,15 +66,14 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   * [View on Github](https://github.com/karanchinch10/IRIS_Classification) 💝
  
 
-# [5. Bank Management Web Application](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
-<h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4>
+# [5. Bank Management Web App](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
   
-I have made<strong> flask project of bank management web application system</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
+ I have made<strong> Flask Project of Bank Management Web Application System</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
 * Front end was created by HTML and CSS without use of bootstrap
 * Connect python with SQL database to manage all information by CRUD operation
-* First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account
-* Now they can <strong>login</strong> account by entering <strong>user ID and password</strong> & login session start
-* User can <strong>view and modify</strong> their <strong>personal details</strong> & change password also can logout acccount by turning off the login session
+* First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit & register their bank account
+* Now user can <strong>login</strong> account by entering <strong>user ID and password</strong>
+* User can <strong>view and modify</strong> their <strong>personal details</strong> & change password also can logout acccount due to turning off the login session
 * User can <strong>withdraw, credit money</strong> into their account and <strong>check current balance</strong>
 * Tech stack used:`Python,Flask,MySql Database,XAMPP,html,CSS`<br>
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
