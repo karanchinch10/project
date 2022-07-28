@@ -11,9 +11,6 @@ Web scraping or web data extraction is used for extracting data from websites,th
 <!--   [To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py) -->
 
   
-
-
-
 # [1. Predict Price of Old Car](https://github.com/karanchinch10/Oldcar_Sell_Regression)                                      
  
 Now a day many peoples prefer to <strong>buy second hand car instead of buying new one</strong>, as its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..
@@ -27,7 +24,6 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
   * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
   
-
 
 # [2. Bank Marketing Campaign](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML)
 <strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective also can be used to promote a product, service, or any brand as a whole. The project is focus on analysis of <strong>Bank Marketing</strong> dataset which contains data of customers details (Personal + Banking) and aims to get useful insights from data. By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
@@ -53,7 +49,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 
 
 # [4. Visualization of Google Playstore Apps](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
-<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”,“New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
+<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps higher priority in recommendations sections</strong> (“Similar apps”,“New and updated games”) that are promising, are boosted in visibility also in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
 * Perform <strong>EDA, Data cleaning and Data correction on raw data</strong> 
 * Done <strong>visualization</strong>by various plots to draw useful insight from data and which will help for <strong>decision making</strong> like
@@ -67,7 +63,8 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
  
 
 # [5. Bank Management Web App](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
-  
+<h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4> 
+
  I have made<strong> Flask Project of Bank Management Web Application System</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
 * Front end was created by HTML and CSS without use of bootstrap
 * Connect python with SQL database to manage all information by CRUD operation
@@ -79,7 +76,11 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
-  
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal Web PortFolio</a></h1>
+<h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
+
+- I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
+- 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
 
 <!-- # [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
 * In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
