@@ -30,12 +30,13 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 
 
 # [2. Bank Marketing Campaign](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
-<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. It can used to promote a product, a service, or the brand as a whole. The following project focus on the analysis of <strong>Bank Marketing</strong> dataset which contains data or information about customers and aims to get useful insights from the data and <strong>predict if a new customer will accept a deposit offer or not</strong>.By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
-* Done <strong>EDA & Data Correction</strong> and handle outliers 
-* Visualize data to know pattern of target customers by info of previuos campaign which includes contact duration,type,no of contact perform & so on..
-* <strong>RandomForest & XG boost Perform (R2 score 86)</strong> after Train and Evaluate model performance based on accuracy, R2 score & complexity 
-* Build <strong>Pipeline</strong> for <strong>deployment</strong> session & Deploy model as web App 
-*  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
+<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective also can be used to promote a product, service, or any brand as a whole. The project is focus on analysis of <strong>Bank Marketing</strong> dataset which contains data of customers details (Personal + Banking) and aims to get useful insights from data By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
+* Build Model which predict either a new customer will accept a deposit offer or not
+* Done <strong>EDA & Data Correction</strong> and Handle outliers 
+* Visualize data to know pattern of target customers by their previuos campaign deatils includes contact duration,type,no of contact perform, also banking details & so on..
+* <strong>RandomForest & XG boost Perform best (R2score 86%)</strong> after Train and Evaluate model performance based on accuracy, R2 score & complexity 
+* Build <strong>Pipeline</strong> for <strong>deployment</strong> session & Deploy the model  
+*  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.
 * * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
   * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
    
