@@ -37,7 +37,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * Build <strong>Pipeline</strong> for <strong>deployment</strong> session & Deploy the model  
 *  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.
 * * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit) 💝
-  * [Web App](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML) 💝
+  * [Web App](https://karanchinch10-bank-marketing-campaign-ml-app1-mc8w1z.streamlitapp.com/) 💝
    
 
 
