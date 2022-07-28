@@ -1,5 +1,8 @@
 theme: jekyll-theme-slate
 title: My Projects Portfolio
-description: <h4>My projects on various Data Science skills!</h4>
+description: My projects on various Data Science skills!
+navbar-links:
+  About Me: "aboutme"
+navbar-col: "#EAEAEA"
 social-network-links:
   email: "karan433155@gmail.com"
