@@ -51,7 +51,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   
 
 
-# [5. Visualization of Google Playstore Apps](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
+# [5. Google Playstore Apps Visualization](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
 <strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps with higher priority in recommendations sections (“Similar apps”,“New and updated games”) that are promising, are boosted in visibility also in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
 * Perform <strong>EDA, Data cleaning and Data correction on raw data</strong> 
