@@ -1,100 +1,86 @@
 
-# [1.Quotes Scraper](https://github.com/ashwinshetgaonka/Web-Quotes-Scraper)
-Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
+<h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">1. Predict Price of Old Car | ML</a></h1>
+Now a day many peoples prefer to <strong>buy second hand car instead of buying new one</strong>, as its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..</strong>
 
-* Implemented Web Scraping to extract data from static sites.
-* Used `requests` and `BeautifulSoup` libraries to perform the web scraping.
-* The project involved extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
-  previously scraped.<br>
-<!-- * Deployed the project using streamlit as a Web app. -->
-* Tech stack used:`Python,requests,BeautifulSoup,pandas`.<br>
-<!--   [To view the web app](https://share.streamlit.io/ashwinshetgnkar/web-quotes-scraper/main/app.py) -->
-
-  
-
-
-
-# [2.IPL Batting Analysis 2008-2021](https://github.com/ashwinshetgakar/Data-Visualization-Projects/tree/main/IPL%20Batting%20Analysis%202008-2021)                                      
- 
-The Indian Premier League is a professional men's Twenty20 cricket league, contested by ten teams based out of ten Indian cities.The league was founded by the Board of Control for Cricket in India in 2007.The Dataset contains the stats of all the batsman to have played the league from 2008 upto 2021.
-
-* Visualized the data after performing various data manipulations using my domain knowledge about Cricket so as to discover various useful insights from the available data that would help team owners / people playing fantacy games get information about players that are leading in various batting stats like :
-1. Players with max Strike Rate.
-2. Players with least balls/boundary.
-3. Players with most runs per season and many more.<br>
-* Performed around 35 such queries and visualized the results which will give almost all the key attributes of batting.<br>
-* Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgakar/ipl-batting-analysis-2008-2021)
-  
-
-
-# [3.Super Store Analysis](https://github.com/ashwinshgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
-Competition in the retail industry is rising day by day. In a marketplace that’s becoming increasingly digital, retailers are compelled to use advanced analytics to ensure their business survives the competition. Before using analytics to evaluate store performance, 
-it is necessary to identify the objectives behind adopting it. This ensures that the derived intelligence is effectively acted upon.
-Dataset contains Information related to Sales, Profits and other interesting facts of a Superstore giant.
-
-* Visualized the data so that the store owner viewing it can easily understand the Market demands and Customer behaviour which will intern help him in making decision like:
-
-1. How much discounts to offer and for what products.
-2. When to offer and in which regions to offer.
-3. Make customized policies for customers of various segments and many more.<br>
-*  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
-   [To view on kaggle](https://www.kaggle.com/co/ashwinshetonkar/super-store-analysis-data-visual-seaborn) 
-   
-
-
-<!-- # [4.Road Deaths Analysis](https://github.com/ashwihetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
-* The Dataset contains information of number of deaths in various regions of the World from 1990-2019,along with other data like historical population,region code,Side of driving.
-
-* My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
-* Here I have visualized the number of deaths using various plots to gain various insights from the data.
-* From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashhetgaonkar/road-deaths-data-visualization-seaborn) -->
-  
-
-
-# [4.Estimating Mechanical Properties of Steels](https://github.com/ashwsgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
-Since currently there are no precise theoretical methods to predict mechanical properties of steels,I have made an attempt to predict the mechanical properties of steels using Maching Learning.The dataset contains compositions by weight percentages of low-alloy steels along with the temperatures at which the steels were tested and the values mechanical properties observed during the tests. 
-
-* Developed a Regression model to predict the mechanical properties of steels after giving its composition as an input.
-* Visualized the data and performed various `Data Transformations` to bring the data into a suitable form for efficient modeling.
-* Tuned LightGBM model using Optuna framework to get `rmse of 24.23,21.54,2.78,4.32 for the four outputs`.
-* Deployed the model using `Streamlit` as a web app.
-* Tech stack used : `Python, numpy, pandas, matplotlib, seaborn, lightgbm, optuna, streamlit, html, sklearn, scipy, joblib.`<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwigaonkar/mech-prop-lightgbm-optuna),[To view the web app](https://share.stmlit.io/ashwintgakar/estimate-mecnical-properties-of-steel-compostions/main/app.py)
- 
-
-# [5.Movie Rating Sentiment Analysis](https://github.com/ashwitgaonkar/Movie-Rating-Sentiment-Analysis)
-Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text.The dataset contains movie reviews consisting of text along with its labels taken from IMDB.
-* Trained and compared the performance of various models on the basis of `f1_score and time taken per prediction`.
-
-* Demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
-* The best performing model on the bases of f1-score alone was `fined tunned bert-base-uncased[Hugging Face Transformer]` with score of `0.92`.
-* Deployed a web app using streamlit which uses model trained using a feed forward neutral network which gave an f1-score of 0.89.
-* Tech stack used:`Python,numpy,pandas,sklearn,tensorflow,streamlit,html,css,tranformers.`<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashshetgaonkar/movie-rating-sentiment-analysis),[To view the web app](https://share.streamlit.io/ashwinsheonkar/movie-rating-sentiment-analysis/main/app.py)
+* Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get data insight & to know <strong>important features also their correlation</strong> with car price
+* Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge and visualization 
+* <strong>Train ML models</strong> with multiples regression algorithms then Analysed & compare performance of differents models based of accuracy and complexity
+* After comparing, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
+* Finally <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> the model 
+* Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,streamlit</code>
+*  
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem"><strong>View On Kaggle</strong></a> 💝 -  <a href="https://github.com/karanchinch10/Oldcar_Sell_Regression"><strong>View On Github</strong></a> 💝
+  -  <a href="https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com"><strong>Web App</strong></a> 💝
   
   
-  
-# [6.Vegetable Classifier](https://github.com/ashwinaonkar/Vegetable-Classifier)
-From vegetable production to delivery, several common steps are done manually like picking, and sorting vegetables.
-Therefore, it would be a great idea to automate this process in the coming future by using a robot empowering it using Computer Vision.
-The dataset consists of training/validation/test sets of images of 15 different vegetables.
+<h1><a href="https://github.com/karanchinch10/Oldcar_Sell_Regression">2. Bank Marketing Campaign</a></h1>
+<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. To achieve the most effective results, campaigns are carefully planned and the activities are varied. Marketing campaigns are characterized by focusing on the <strong>customer needs</strong> and their overall satisfaction.
+The following project focus on the analysis of a dataset of <strong>Bank Marketing</strong> which contains data or information about customers and aims to get useful insights from the data and <strong>predict if a new customer will accept a deposit offer or not</strong>.
+By understanding important factors or features and <strong>patterns of target customers</strong> those subscribed for deposit so that company can improve this factors and <strong>improve business</strong> and also which will help to get best strategies to improve for the next marketing campaign
 
-* Developed a Multiclass Classification model using pretained model `efficientnetB0` that provides an accuracy greater than `95%` in classfying the 15 vegetable classes.
-* Incorporting suitable `Data Augmentation` layer and `callback functions` I improved the accuracy above `99%`.
-* Visualized the performance on some samples of the test data.<br>
-* Tech stack used:`python, numpy, pandas, tensorflow, html, css, matplotlib, seaborn, pywebio, flask, heroku.`
-  [To view on kaggle](https://www.kaggle.com/code/ashwigaonkar/vegetable-clf-transfer-learning-error-analysis)
+- I have made ML model which will predict either new customer will accept offer deposit or not?
+- Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about important features or correlation 
+- Done <strong>Feature Engineering</strong> which includes features extraction & features construction based on domain knowledge and <strong>visualization</strong> followed by label encoding
+- Train ML models with multiples algorithms then Analysed & compare <strong>performance of differents models</strong> based of accuracy and complexity
+- after comparing with all, got well accuracy by <strong>RandomForest and XG boost</strong> 
+- Finally after cross validation <strong>XG boost<strong> won (accuarcy of 85% and <strong>recall score 88%</strong>)
+- Build <strong>Pipeline</strong> for <strong>deployment</strong> session
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,XG boost</code>
+-  
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit"><strong>View On Kaggle</strong></a> 💝
+  -  <a href="https://github.com/karanchinch10/Bank-Marketing-Campaign-ML"><strong>View On Github</strong></a> 💝
 
-# [7.Object Detection and Motion Tracking](https://github.com/ashwinshetgaonkar/Object-Detection-and-Motion-Tracking)
-* Implemented Object Detection on images and Object Detection and Tracking on webcam input.
-* Tech stack used: `Python, OpenCv`.
+<h1><a href="https://github.com/karanchinch10/IRIS_Classification">3. IRIS flowers Detection</a></h1>
+To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as <strong>sepal length,sepal width, petal length and petal width.</strong> Dataset contains total <strong>3 category of flowers</strong> of 50 instances each<strong>(setosa,virginica,versicolor)</strong>, where <strong>each class</strong> refers to a type of <strong>iris plant</strong>. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. contents of <strong>Multiclass classification problem</strong> as below
 
-<!-- # [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
-* In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
-* The dataset contains news instances with title and text along with its labels taken from various sources.
-* My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
-* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
-* Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py) -->
+- <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get <strong>data insight</strong> or important features
+- Train model with multiples <strong>classification</strong> algorithms
+- Analysed & compare performance of differents models based on <strong>F1 score</strong>
+- <strong>SVM and KNN</strong> had given best accuracy 
+- Vary K value still accuracy was almost same 97.2 then after <strong>cross validation</strong> SVM accuracy was more than KNN
+- Finally Build </strong>web application</strong> using streamlit and <strong>deploy the model.</strong> 
+- <strong>Web App</strong>👉 <strong><https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//></strong> 💝
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda"><strong>View On Kaggle</a></strong> 💝
+  -  <a href="https://github.com/karanchinch10/IRIS_Classification"><strong>View On Github</a></strong> 💝
+
+<h1><a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb">4. Visualization of Google Playstore Apps</a></h1>
+<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
+
+- Perform <strong>EDA, Data cleaning and Data correction</strong> 
+- Done details <strong>visualization</strong> on gplay store apps to get basic information or data insight and that will be helpful for <strong>decision making</strong> like
+   - <strong>Total No of apps</strong> of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has <strong>highest apps</strong> 
+   - Which <strong>category</strong> has <strong>highest demand</strong>, rating, installation & reviews
+   - Total <strong>percentages of free and paid apps</strong> available in glapy store
+   - Which category of apps are <strong>most installed</strong> or like to user
+   - <strong>Average price of paid apps</strong> of each category and their demands
+   - Is there is any <strong>relation of apps rating and reviews with insatllation?</strong>
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css</code>
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda"><strong>View On Kaggle</a></strong> 💝
+  -  <a href="https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb"><strong>View On Github</a></strong> 💝 
+
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">5. Bank Management Web Application</a></h1>
+<h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4>
+
+- I have made this <strong>flask project of bank management web application system</strong>
+- Front end was created by HTML and CSS without use of bootstrap
+- Project is specially designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
+- First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account 
+- Once account has  been created then they can <strong>login</strong> with their <strong>user ID and password</strong>
+- User can <strong>view and modify</strong> their <strong>personal details</strong> from profile section 
+- User can <strong>withdraw, credit money</strong> into their account also can <strong>check current balance</strong>
+- <strong>Minimum credit and withdraw</strong> should be RS 200 and RS50  and <strong>minimum initial deposit</strong> should be min 1000 RS while opening account
+- User can also <strong>change their password</strong> by clicking on forgot password and set new password by confirming their name and email ID 
+- User can <strong>Login and Logout</strong> their account anytime
+- Technical tools or library used -- <code>Python,Flask,MySql Database,XAMPP,html,CSS</code>
+- 
+  -  <a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing"><strong>View Project Report</a></strong> 💝
+  -  👉<a href="#"><strong>View On Github</a></strong> 💝
+
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal Web PortFolio</a></h1>
+<h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
+
+- I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
+- 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
