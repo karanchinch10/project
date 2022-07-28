@@ -1,13 +1,13 @@
 
 # [1. Web Scraping Housing Data](https://github.com/karanchinch10/Web-Scraping-)
-Web scraping used to obtain huge data from websites & extracting/parsing required info from it which usually in unstructured form (HTML format) which is then converted into structured data in a spreadsheet or database so it can used in various applications.
+Web scraping used to obtain huge data from websites & extracting/parsing required info from it which usually in unstructured form (HTML format) and then its converted into structured data in a spreadsheet or database so it can be used in various applications.
 
 * Used `requests` and `BeautifulSoup` libraries to perform the web scraping.
 * All **Important parameters** related to housing such **house price, total sqft area, project by, location, BHK and so on**  are scraped from website ***<a href="https://www.makaan.com"><strong>makaan.com</strong></a>*** 
-* Objective is To know Price of house for **differents location** in **mumbai** city 
-* Data from **250 pages scarpped and store in single dataframe** export to csv file
-* Perform **Data cleaning and Data Visualization on Scrapped data** to know imp features & their correlation with house price
-* Compare **Price rate for different location BHK wise** to know which location has highest rate 
+* Objective is to know Price of house for **differents location** in **mumbai** city. 
+* Data from **250 pages scarpped, store in single dataframe** & export to csv file.
+* **Clean Scrapped data and Visualize** to know important features & their correlation with house price.
+* Compare **Price rate for different location BHK wise** to understand location with higher rate. 
 * Tech stack used:`Python,requests,BeautifulSoup,pandas`.<br>
 - 
   -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/Web%20Scraping%20-%20House%20mumbai.ipynb"><strong>Web Scraping</strong></a> 💝
@@ -41,17 +41,24 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
    
 
 
-<!-- # [4.Road Deaths Analysis](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Road%20Deaths%20Analysis)
-* The Dataset contains information of number of deaths in various regions of the World from 1990-2019,along with other data like historical population,region code,Side of driving.
+<!-- <h1><a href="https://github.com/karanchinch10/IRIS_Classification">4. IRIS flowers Detection</a></h1>
+To determine <strong>class or cateogry of flower</strong> which its belong to base on their 4 features or parameters such as <strong>sepal length,sepal width, petal length and petal width.</strong> Dataset contains total <strong>3 category of flowers</strong> of 50 instances each<strong>(setosa,virginica,versicolor)</strong>, where <strong>each class</strong> refers to a type of <strong>iris plant</strong>. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. contents of <strong>Multiclass classification problem</strong> as below
 
-* My objective for this Project was to visualize the available data to draw insights from it which are not perceived just by reading through an excel/csv file.
-* Here I have visualized the number of deaths using various plots to gain various insights from the data.
-* From this I can easily state the regions with maximum,mean deaths,year in which max deaths occured and many more.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/road-deaths-data-visualization-seaborn) -->
+- <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get <strong>data insight</strong> or important features
+- Train model with multiples <strong>classification</strong> algorithms
+- Analysed & compare performance of differents models based on <strong>F1 score</strong>
+- <strong>SVM and KNN</strong> had given best accuracy 
+- Vary K value still accuracy was almost same 97.2 then after <strong>cross validation</strong> SVM accuracy was more than KNN
+- Finally Build </strong>web application</strong> using streamlit and <strong>deploy the model.</strong> 
+- <strong>Web App</strong>👉 <strong><https://karanchinch10-streamlit-iris-app-0k57bb.streamlitapp.com//></strong> 💝
+- Technical tools or library used -- <code>Python,Numpy,Pandas,sklearn,matplotllib,html,css,streamlit</code>
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda"><strong>View On Kaggle</a></strong> 💝
+  -  <a href="https://github.com/karanchinch10/IRIS_Classification"><strong>View On Github</a></strong> 💝 -->
   
 
 
-# [5. G-Play Apps Visualization](https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb)
+# [4. G-Play Apps Visualization](https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb)
 <strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps with higher priority in recommendations sections (“Similar apps”,“New and updated games”) that are promising, are boosted in visibility also in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
 * Perform <strong>EDA, Data cleaning and Data correction on raw data</strong> 
@@ -60,12 +67,12 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 2. Which <strong>category</strong> has <strong>highest demand</strong>, rating, installation or reviews?
 3. Total <strong>percentages of free and paid apps</strong> available in glapy store
 4. Is there is any <strong>relation of apps rating and reviews with their installation?</strong>
-* Tech stack used : `Python, numpy, pandas, matplotlib, seaborn.`
-* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda) 💝
-  * [View on Github](https://github.com/karanchinch10/IRIS_Classification) 💝
+* Tech stack used : `Python,numpy,pandas,matplotlib,seaborn.`
+* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/gplay-playstore-data-visualization-eda) 💝
+  * [View on Github](https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb) 💝
  
 
-# [6. Bank Management Web App](https://github.com/karanchinch10/Bank-management-Web)
+# [5. Bank Management Web App](https://github.com/karanchinch10/Bank-management-Web)
 <h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4> 
 
  I have made<strong> Flask Project of Bank Management Web Application System</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
@@ -77,18 +84,12 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * User can <strong>withdraw, credit money</strong> into their account and <strong>check current balance</strong>
 * Tech stack used:`Python,Flask,MySql Database,XAMPP,html,CSS`<br>
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
-  - [View on Github](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
+  - [View on Github](https://github.com/karanchinch10/Bank-management-Web)
   
-<h1><a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/">7. Personal Web PortFolio</a></h1>
+<h1><a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/">6. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
 - 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
 
-<!-- # [8.Fake News Classifier](https://github.com/ashwinshetgaonkar/Fake-News-Classifier)
-* In today's world which contains a lot of digital data it will be very beneficial to have some kind of an software that will help us in descriminating between Fake and Real News with some given constraints.
-* The dataset contains news instances with title and text along with its labels taken from various sources.
-* My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
-* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
-* Build an web app using streamlit which uses model trained using a feed forward neutral network.<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/fake-news-classifier-nb-bert),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/fake-news-classifier/main/app.py) -->
+
