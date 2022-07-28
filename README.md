@@ -29,16 +29,16 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   
 
 
-# [2. Bank Marketing Campaign](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
-<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective also can be used to promote a product, service, or any brand as a whole. The project is focus on analysis of <strong>Bank Marketing</strong> dataset which contains data of customers details (Personal + Banking) and aims to get useful insights from data By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
+# [2. Bank Marketing Campaign](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML)
+<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective also can be used to promote a product, service, or any brand as a whole. The project is focus on analysis of <strong>Bank Marketing</strong> dataset which contains data of customers details (Personal + Banking) and aims to get useful insights from data. By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
 * Build Model which predict either a new customer will accept a deposit offer or not
 * Done <strong>EDA & Data Correction</strong> and Handle outliers 
 * Visualize data to know pattern of target customers by their previuos campaign deatils includes contact duration,type,no of contact perform, also banking details & so on..
 * <strong>RandomForest & XG boost Perform best (R2score 86%)</strong> after Train and Evaluate model performance based on accuracy, R2 score & complexity 
 * Build <strong>Pipeline</strong> for <strong>deployment</strong> session & Deploy the model  
 *  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.
-* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
-  * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
+* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit) 💝
+  * [Web App](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML) 💝
    
 
 
@@ -53,16 +53,17 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 
 
 # [4. Visualization of Google Playstore Apps](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
-<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”, “You might also like”, “New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
+<strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps that are promising, are boosted in visibility. The boost will manifest in multiple ways including <strong>higher priority in recommendations sections</strong> (“Similar apps”,“New and updated games”). These will also get a boost in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
-* Perform <strong>EDA, Data cleaning and Data correction</strong> 
-* Done details <strong>visualization</strong> on gplay store apps to get basic information or data insight and that will be helpful for <strong>decision making</strong> like
-* <strong>Total No of apps</strong> of all category (like games,sports,medical,education,beauty..etc) to understand whcih category has <strong>highest apps</strong>
-* Which <strong>category</strong> has <strong>highest demand</strong>, rating, installation & reviews
-* Total <strong>percentages of free and paid apps</strong> available in glapy store
-* Is there is any <strong>relation of apps rating and reviews with insatllation?</strong>
-* Tech stack used : `Python, numpy, pandas, matplotlib, seaborn, lightgbm, optuna, streamlit, html, sklearn, scipy, joblib.`<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/mech-prop-lightgbm-optuna),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/estimate-mechanical-properties-of-steel-compostions/main/app.py)
+* Perform <strong>EDA, Data cleaning and Data correction on raw data</strong> 
+* Done <strong>visualization</strong>by various plots to draw useful insight from data and which will help for <strong>decision making</strong> like
+1. <strong>Total No of apps</strong> of all category (like games,sports,medical,education,beauty..etc) 
+2. Which <strong>category</strong> has <strong>highest demand</strong>, rating, installation or reviews?
+3. Total <strong>percentages of free and paid apps</strong> available in glapy store
+4. Is there is any <strong>relation of apps rating and reviews with their installation?</strong>
+* Tech stack used : `Python, numpy, pandas, matplotlib, seaborn.`
+* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/iris-classification-problem-eda) 💝
+  * [View on Github](https://github.com/karanchinch10/IRIS_Classification) 💝
  
 
 # [5. Bank Management Web Application](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
