@@ -19,26 +19,25 @@ Web scraping or web data extraction is used for extracting data from websites,th
 Now a day many peoples prefer to <strong>buy second hand car instead of buying new one</strong>, as its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..
 
 * Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get data insight & to know <strong>important features also their correlation</strong> with car price
-* Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge and visualization
+* Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge & visualization
 * <strong>Train model</strong> with multiple regression algorithms then Analysed & compare performance of differents models based of <strong>accuracy and complexity</strong>
-* After comparing, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
-* <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> the model 
-* Tech stack used:`Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css`.<br>
-* * [To view on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
+* Got well accuracy by <strong>RandomForestRegressor(cross validation-around 90%)</strong>
+* <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> model 
+* Tech Tools:`Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css`.
+* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
   * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
   
 
 
 # [2. Bank Marketing Campaign](https://github.com/ashwinshetgaonkar/Data-Visualization-Projects/tree/main/Super%20Store%20Analysis)
-<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. A marketing campaign could be used to promote a product, a service, or the brand as a whole. The following project focus on the analysis of a dataset of <strong>Bank Marketing</strong> which contains data or information about customers and aims to get useful insights from the data and <strong>predict if a new customer will accept a deposit offer or not</strong>.
-
-* Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> then visualizatiion to get some idea about important features or correlation
-* Done <strong>Feature Engineering</strong> which includes features extraction & features construction based on domain knowledge and <strong>visualization</strong> followed by label encoding
-* Train ML models with multiples algorithms then Analysed & compare <strong>performance of differents models</strong> based of accuracy and complexity
-* after comparing with all, got well accuracy by <strong>RandomForest and XG boost</strong>
-* Build <strong>Pipeline</strong> for <strong>deployment</strong> session
+<strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective. It can used to promote a product, a service, or the brand as a whole. The following project focus on the analysis of <strong>Bank Marketing</strong> dataset which contains data or information about customers and aims to get useful insights from the data and <strong>predict if a new customer will accept a deposit offer or not</strong>.By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
+* Done <strong>EDA & Data Correction</strong> and handle outliers 
+* Visualize data to know pattern of target customers by info of previuos campaign which includes contact duration,type,no of contact perform & so on..
+* <strong>RandomForest & XG boost Perform (R2 score 86)</strong> after Train and Evaluate model performance based on accuracy, R2 score & complexity 
+* Build <strong>Pipeline</strong> for <strong>deployment</strong> session & Deploy model as web App 
 *  Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
-   [To view on kaggle](https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit) 
+* * [View on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
+  * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
    
 
 
