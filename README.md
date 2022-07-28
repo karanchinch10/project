@@ -65,7 +65,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   * [View on Github](https://github.com/karanchinch10/IRIS_Classification) 💝
  
 
-# [6. Bank Management Web App](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
+# [6. Bank Management Web App](https://github.com/karanchinch10/Bank-management-Web)
 <h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4> 
 
  I have made<strong> Flask Project of Bank Management Web Application System</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
@@ -79,7 +79,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
-<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">7. Personal Web PortFolio</a></h1>
+<h1><a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/">7. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
