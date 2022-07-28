@@ -20,11 +20,12 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 
 * Completed stepwise <strong>EDA (Exploratory Data Analysis)</strong> and visualization to get data insight & to know <strong>important features also their correlation</strong> with car price
 * Done <strong>Feature Engineering</strong> includes <strong>Features extraction & Features construction</strong> based on my domian knowledge and visualization
+* <strong>Train model</strong> with multiple regression algorithms then Analysed & compare performance of differents models based of <strong>accuracy and complexity</strong>
 * After comparing, got well accuracy by <strong>RandomForestRegressor(cross validation--around 90%)</strong>
-* Finally <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> the model 
-* Tech stack used:`Python,pandas,matplotlib,seaborn,numpy,html,css`.<br>
-  [To view on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem)
-  [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com)
+* <strong>Build Web App</strong> using streamlit and <strong>deploy</strong> the model 
+* Tech stack used:`Python,Numpy,Pandas,sklearn,matplotllib,seaborn,html,css`.<br>
+* * [To view on kaggle](https://www.kaggle.com/code/karanchinchpure/predict-price-of-used-cars-regression-problem) 💝
+  * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
   
 
 
