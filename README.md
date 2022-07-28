@@ -1,17 +1,20 @@
 
-# [0.Quotes Scraper](https://github.com/ashwinshetgaonkar/Web-Quotes-Scraper)
-Web scraping or web data extraction is used for extracting data from websites,this involves fetching data and extracting/parsing required info from it. Fetching is the downloading of a page (which a browser does when a user views a page).
+# [1 Web Scraping Housing Data](https://github.com/karanchinch10/Web-Scraping-)
+Web scraping used to obtain huge data from websites & extracting/parsing required info from it which usually in unstructured form (HTML format) which is then converted into structured data in a spreadsheet or database so it can used in various applications.
 
-* Implemented Web Scraping to extract data from static sites.
 * Used `requests` and `BeautifulSoup` libraries to perform the web scraping.
-* The project involved extracting the names of all topics of quotes and then scraping quotes along with their author name for all topics
-  previously scraped.<br>
-<!-- * Deployed the project using streamlit as a Web app. -->
+* All **Important parameters** related to housing such **house price, total sqft area, project by, location, BHK and so on**  are scraped from website ***https://www.makaan.com***
+* Objective is To know Price of house for **differents location** in **mumbai** city 
+* Data from **250 pages scarpped and store in single dataframe** export to csv file
+* Perform **Data cleaning and Data Visualization on Scrapped data** to know imp features & their correlation with house price
+* Compare **Price rate for different location BHK wise** to know which location has highest rate 
 * Tech stack used:`Python,requests,BeautifulSoup,pandas`.<br>
-<!--   [To view the web app](https://share.streamlit.io/ashwinshetgaonkar/web-quotes-scraper/main/app.py) -->
+- 
+  -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/Web%20Scraping%20-%20House%20mumbai.ipynb"><strong>Web Scraping</strong></a> 💝
+  -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/House%20Price%20Visualization%20Mumbai.ipynb"><strong>Scraped Data Process</strong></a> 💝
 
   
-# [1. Predict Price of Old Car](https://github.com/karanchinch10/Oldcar_Sell_Regression)                                      
+# [2. Predict Price of Old Car](https://github.com/karanchinch10/Oldcar_Sell_Regression)                                      
  
 Now a day many peoples prefer to <strong>buy second hand car instead of buying new one</strong>, as its better investment option where we get almost <strong>30-40% discount</strong>. but main question here is how seller will know <strong>actual selling price of old car</strong> base on car features or which factors play major roles?? So to solve this complex problem, I have build <strong>ML model</strong> which predict <strong>estimated price of car</strong> base on given input features as <strong>brand,KM drive,Power,Year and so on..
 
@@ -25,7 +28,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   * [Web App](https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com) 💝
   
 
-# [2. Bank Marketing Campaign](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML)
+# [3. Bank Marketing Campaign](https://github.com/karanchinch10/Bank-Marketing-Campaign-ML)
 <strong>Marketing campaigns</strong> are sets of strategic activities that promote a <strong>business’s goal</strong> or objective also can be used to promote a product, service, or any brand as a whole. The project is focus on analysis of <strong>Bank Marketing</strong> dataset which contains data of customers details (Personal + Banking) and aims to get useful insights from data. By understanding important features and <strong>patterns of target customers</strong> which can help to get best strategies to improve for the next marketing campaign 
 * Build Model which predict either a new customer will accept a deposit offer or not
 * Done <strong>EDA & Data Correction</strong> and Handle outliers 
@@ -48,7 +51,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   
 
 
-# [4. Visualization of Google Playstore Apps](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
+# [5. Visualization of Google Playstore Apps](https://github.com/ashwinshetgaonkar/Estimate-Mechanical-Properties-of-Steel-compostions)
 <strong>Google Play Store</strong> team is about to launch a new feature wherein, certain apps higher priority in recommendations sections</strong> (“Similar apps”,“New and updated games”) that are promising, are boosted in visibility also in search results visibility. This feature will help bring more attention to <strong>newer apps that have the potential.</strong>
 
 * Perform <strong>EDA, Data cleaning and Data correction on raw data</strong> 
@@ -62,7 +65,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
   * [View on Github](https://github.com/karanchinch10/IRIS_Classification) 💝
  
 
-# [5. Bank Management Web App](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
+# [6. Bank Management Web App](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
 <h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4> 
 
  I have made<strong> Flask Project of Bank Management Web Application System</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
@@ -76,7 +79,7 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
-<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">6. Personal Web PortFolio</a></h1>
+<h1><a href="https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing">7. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
