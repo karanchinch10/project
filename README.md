@@ -67,14 +67,18 @@ Now a day many peoples prefer to <strong>buy second hand car instead of buying n
  
 
 # [5. Bank Management Web Application](https://github.com/ashwinshetgaonkar/Movie-Rating-Sentiment-Analysis)
-* I have made this <strong>flask project of bank management web application system</strong> 
-* Project is specially designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
+<h4><strong>Python | Flask | SQL | HTML | CSS </strong></h4>
+  
+I have made<strong> flask project of bank management web application system</strong> designed for <strong>customer/bank holder</strong> to get all <strong>basic bank services</strong>
+* Front end was created by HTML and CSS without use of bootstrap
+* Connect python with SQL database to manage all information by CRUD operation
 * First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit and register their bank account
-* Once account has  been created then they can <strong>login</strong> with their <strong>user ID and password</strong>
-* User can <strong>view and modify</strong> their <strong>personal details</strong> from profile section
-* User can <strong>withdraw, credit money</strong> into their account also can <strong>check current balance</strong>
-* Tech stack used:`Python,numpy,pandas,sklearn,tensorflow,streamlit,html,css,tranformers.`<br>
-  [To view on kaggle](https://www.kaggle.com/code/ashwinshetgaonkar/movie-rating-sentiment-analysis),[To view the web app](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
+* Now they can <strong>login</strong> account by entering <strong>user ID and password</strong> & login session start
+* User can <strong>view and modify</strong> their <strong>personal details</strong> & change password also can logout acccount by turning off the login session
+* User can <strong>withdraw, credit money</strong> into their account and <strong>check current balance</strong>
+* Tech stack used:`Python,Flask,MySql Database,XAMPP,html,CSS`<br>
+* - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
+  - [View on Github](https://share.streamlit.io/ashwinshetgaonkar/movie-rating-sentiment-analysis/main/app.py)
   
   
 
