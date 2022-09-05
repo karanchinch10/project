@@ -103,4 +103,5 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
 - 👉<a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/"><strong>Click to View My Personal Web Porfolio</strong></a> 💝
 
-
+  
+#### [💝To view my more projects](https://www.kaggle.com/karanchinchpure/code)
