@@ -86,7 +86,7 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://github.com/karanchinch10/Bank-management-Web)
   
-# [6.Movie Rating Sentiment Analysis](https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb)
+# [6.Movie Rating Sentiment Analysis](https://github.com/karanchinch10/NLP-Movie-Reviews)
 <strong>Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. IMDB Dataset contains 50k movie which taken from kaggle</strong>
 
 * Perfrom text cleaning using nltk library and convert word to vector form 
