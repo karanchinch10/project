@@ -80,13 +80,13 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 * Connect python with SQL database to manage all information by CRUD operation
 * First customer has to <strong>open their bank account</strong> by filling basic bank details such as Name, Password, DOB, mob no, Initial Deposit & register their bank account
 * Now user can <strong>login</strong> account by entering <strong>user ID and password</strong>
-* User can <strong>view and modify</strong> their <strong>personal details</strong> & change password also can logout acccount due to turning off the login session
+* User can <strong>view and modify</strong> their <strong>personal details</strong> & change password also can logout acccount with login session
 * User can <strong>withdraw, credit money</strong> into their account and <strong>check current balance</strong>
 * Tech stack used:`Python,Flask,MySql Database,XAMPP,html,CSS`<br>
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://github.com/karanchinch10/Bank-management-Web)
   
-# [6.Movie Rating Sentiment Analysis](https://github.com/karanchinch10/NLP-Movie-Reviews)
+# [6. Movie Rating Sentiment Analysis](https://github.com/karanchinch10/NLP-Movie-Reviews)
 <strong>Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. IMDB Dataset contains 50k movie which taken from kaggle</strong>
 
 * Perfrom text cleaning using nltk library and convert word to vector form 
