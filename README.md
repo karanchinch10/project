@@ -87,12 +87,12 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
   - [View on Github](https://github.com/karanchinch10/Bank-management-Web)
   
 # [6. Movie Rating Sentiment Analysis](https://github.com/karanchinch10/NLP-Movie-Reviews)
-<strong>Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. IMDB Dataset contains 50k movie which taken from kaggle</strong>
+Sentiment Analysis, also referred to as opinion mining, is an approach to Natural Language Processing (NLP) that identifies the emotional tone behind a body of text. IMDB Dataset contains 50k movie which taken from kaggle.
 
-* Perfrom text cleaning using nltk library and convert word to vector form 
+* Perfrom <strong>text cleaning</strong> using <strong>nltk</strong> library and convert word to vector form 
 * Trained model with various algorithms and compared the performance models on the basis of f1_score. 
-* The best performing model on the bases of f1-score was LSTM RNN with score of 0.96.
-* Deployed a web app using streamlit
+* The best performing model on the bases of f1-score was <strong>LSTM RNN</strong> with <strong>f1_score of 0.96.</strong>
+* <strong>Deployed a web app</strong> using streamlit
 * Tech stack used : `Python,numpy,pandas,nltk,sklearn,tensorflow,streamlit`
 * * [View Web App](https://karanchinch10-nlp-movie-reviews-app-9ym4nt.streamlitapp.com/) 💝
   * [View on Github](https://github.com/karanchinch10/NLP-Movie-Reviews/blob/main/50K_Movie_Reviews_.ipynb) 💝
