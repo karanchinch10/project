@@ -11,7 +11,7 @@ Web scraping used to obtain huge data from websites & extracting/parsing require
 * Tech stack used:`Python,requests,BeautifulSoup,pandas`.<br>
 - 
   -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/Web%20Scraping%20-%20House%20mumbai.ipynb"><strong>Web Scraping</strong></a> 💝
-  -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/House%20Price%20Visualization%20Mumbai.ipynb"><strong>Scraped Data Process</strong></a> 💝
+  -  👉<a href="https://github.com/karanchinch10/Web-Scraping-/blob/main/House%20Price%20Visualization%20Mumbai.ipynb"><strong>Scraped Data Analysis</strong></a> 💝
 
   
 # [2. Predict Price of Old Car](https://github.com/karanchinch10/Oldcar_Sell_Regression)                                      
@@ -86,7 +86,18 @@ To determine <strong>class or cateogry of flower</strong> which its belong to ba
 * - [View Project Report](https://drive.google.com/file/d/1OWEpEZOMQLKn9l1bylQrqw8NeEoizxoF/view?usp=sharing)
   - [View on Github](https://github.com/karanchinch10/Bank-management-Web)
   
-<h1><a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/">6. Personal Web PortFolio</a></h1>
+# [6.Movie Rating Sentiment Analysis](https://github.com/karanchinch10/Exploratory-Data-Analysis-EDA-/blob/main/EDA%20data/gplay-playstore-data-visualization-EDA.ipynb)
+<strong>Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. IMDB Dataset contains 50k movie which taken from kaggle</strong>
+
+* Perfrom text cleaning using nltk library and convert word to vector form 
+* Trained model with various algorithms and compared the performance models on the basis of f1_score. 
+* The best performing model on the bases of f1-score was LSTM RNN with score of 0.96.
+* Deployed a web app using streamlit
+* Tech stack used : `Python,numpy,pandas,nltk,sklearn,tensorflow,streamlit`
+* * [View Web App](https://karanchinch10-nlp-movie-reviews-app-9ym4nt.streamlitapp.com/) 💝
+  * [View on Github](https://github.com/karanchinch10/NLP-Movie-Reviews/blob/main/50K_Movie_Reviews_.ipynb) 💝
+  
+<h1><a href="https://karanchinch10.github.io/karan-chinchpure-portfolio/">7. Personal Web PortFolio</a></h1>
 <h4><strong>HTML | CSS | BOOTSTRAP </strong></h4>  
 
 - I have made Personal web Portfolio to showcase my <strong>skills, technical knowledge and personal projects</strong>
